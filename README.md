@@ -1,4 +1,4 @@
-# 中华人民共和国行政区划
+# 中华人民共和国行政区划分
 
 最全全国省、市、区(县)、街道、社区（村）代码划分
 * 数据来源：[国家统计局](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html)
