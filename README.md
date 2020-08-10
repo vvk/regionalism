@@ -4,8 +4,8 @@
 * 数据来源：[国家统计局](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html)
 * 数据更新时间：2019年10月31日
 * 数据下载：
-  * [json 格式数据](data.json)
-  * [csv 格式数据](data.csv)
+    * json格式数据：[data.josn](./data.json)
+    * 压缩文件(json、csv)：[data.zip](./data.zip)
 
 # 使用方法
 在命令行中执行下面命令会将行政区域数据自动保存在文件 `data.json`、`data.csv`中.
